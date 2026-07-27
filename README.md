@@ -1,46 +1,61 @@
-# JavaScript Learning Journey 🚀
+**no more simple but # JavaScript Learning
 
-My notes, exercises, and code snippets while learning JavaScript from **[Learn JavaScript in Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)** by **Elzero Web School**.
+A repository containing my notes, exercises, and practice projects while learning JavaScript through the **Learn JavaScript in Arabic 2021** course by **Elzero Web School**.
 
-## 📊 Progress
+## Progress
 
-**160 / 188 videos completed** (≈ 85%)
+- **Completed:** 160 / 188 lessons (85%)
+- **Remaining:** 28 lessons
 
-```
-[████████████████████████████████████████░░░░░░░░] 85%
-```
-
-- ✅ Completed: 160
-- 🔲 Remaining: 28
-
-## 📚 About the Course
-
-A comprehensive JavaScript course (in Arabic) covering everything from the basics to advanced concepts, taught by Osama Elzero.
+## Course
 
 - **Instructor:** Elzero Web School
 - **Language:** Arabic
-- **Total videos:** 188
-- **Playlist link:** https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv
+- **Playlist:** https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv
 
-## 🛠️ What I'm Learning
+## Topics Covered
 
-- JavaScript fundamentals (variables, data types, operators)
-- Control flow (conditions, loops)
-- Functions & scope
-- Arrays & objects
-- DOM manipulation
+- JavaScript Fundamentals
+- Variables & Data Types
+- Operators
+- Functions
+- Arrays
+- Objects
+- Loops
+- DOM Manipulation
 - Events
-- ES6+ features
-- Practical mini-projects
+- Browser APIs (BOM)
+- ES6+
+- OOP
+- Regular Expressions
+- Modern JavaScript Features
 
-## ✍️ Notes
+## Repository Structure
 
-Each folder contains code examples and personal notes taken while following along with the corresponding videos in the playlist.
+```
+javascript-learning/
+├── 01-introduction
+├── 02-fundamentals
+├── 03-numbers-and-strings
+├── 04-control-flow
+├── 05-arrays
+├── 06-loops
+├── 07-functions-and-scope
+├── 08-higher-order-functions
+├── 09-objects
+├── 10-dom-and-events
+├── 11-browser-object-model-bom
+├── 12-destructuring
+├── 13-modern-javascript
+├── 14-regular-expressions
+├── 15-object-oriented-programming
+└── 16-advanced-javascript
+```
 
-## 📌 Goal
+## Goal
 
-Finish all 188 videos and build a solid foundation in JavaScript before moving on to frameworks like React.
+Complete the course, strengthen my JavaScript fundamentals, and prepare for React and full-stack development.
 
 ---
 
-⭐ Feel free to star this repo if you're following the same course — happy to connect with other learners!
+*This repository is continuously updated as I progress through the course.*
